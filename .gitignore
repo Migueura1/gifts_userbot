@@ -1,0 +1,14 @@
+/venv/
+app/.env
+app/logs/*
+/.env
+.env
+**/__pycache__/
+*.py[cod]
+.idea/
+alembic/versions/__pycache__/
+.DS_Store
+*.pyc
+*.session
+**.session
+/app/*.session
